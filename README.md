@@ -1,6 +1,6 @@
 #Joseph Archer Portfolio
 
-![Joseph Archer](/assets/assignment2.jpg)
+![Joseph Archer](./assets/assignment2.jpg)
 
 * Portfolio page create to provide access to my projects
 * Used CSS Flexboxes to create a mobile-first website.
